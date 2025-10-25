@@ -1,0 +1,382 @@
+Item,Year,Value ,refValue
+Beer or barley,2000,363247,363
+Beer or barley,2001,363248,363
+Beer or barley,2002,363249,363
+Beer or barley,2003,363250,363
+Beer or barley,2004,363251,363
+Beer or barley,2005,363252,363
+Beer or barley,2006,363253,363
+Beer or barley,2007,363254,363
+Beer or barley,2008,363255,363
+Beer or barley,2009,363256,363
+Beer or barley,2010,363257,363
+Beer or barley,2011,363258,363
+Beer or barley,2012,538600,539
+Beer or barley,2013,520600,521
+Beer or barley,2014,2000000,2000
+Beer or barley,2015,2120000,2120
+Beer or barley,2016,2210000,2210
+Beer or barley,2017,2250000,2250
+Beer or barley,2018,2360000,2360
+Beer or barley,2019,2400000,2400
+Beer or barley,2020,1423000,1423
+Beer or barley,2021,2204400,2204
+Beer or barley,2022,2551700,2552
+Coconut oil,2000,420000,420
+Coconut oil,2001,426000,426
+Coconut oil,2002,432000,432
+Coconut oil,2003,414000,414
+Coconut oil,2004,420000,420
+Coconut oil,2005,370000,370
+Coconut oil,2006,353000,353
+Coconut oil,2007,400800,401
+Coconut oil,2008,406800,407
+Coconut oil,2009,394800,395
+Coconut oil,2010,369000,369
+Coconut oil,2011,379000,379
+Coconut oil,2012,391800,392
+Coconut oil,2013,375600,376
+Coconut oil,2014,395400,395
+Coconut oil,2015,370800,371
+Coconut oil,2016,337200,337
+Coconut oil,2017,247200,247
+Coconut oil,2018,320400,320
+Coconut oil,2019,351600,352
+Coconut oil,2020,339000,339
+Coconut oil,2021,366000,366
+Coconut oil,2022,360000,360
+Cotton,2000,1640900,1641
+Cotton,2001,1699490,1699
+Cotton,2002,1466080,1466
+Cotton,2003,2334000,2334
+Cotton,2004,2792800,2793
+Cotton,2005,3145000,3145
+Cotton,2006,3847000,3847
+Cotton,2007,4400000,4400
+Cotton,2008,3787000,3787
+Cotton,2009,4083400,4083
+Cotton,2010,5683000,5683
+Cotton,2011,5984000,5984
+Cotton,2012,5817400,5817
+Cotton,2013,6052000,6052
+Cotton,2014,5916850,5917
+Cotton,2015,5100850,5101
+Cotton,2016,5542000,5542
+Cotton,2017,5538090,5538
+Cotton,2018,5576850,5577
+Cotton,2019,4767140,4767
+Cotton,2020,6131050,6131
+Cotton,2021,5992160,5992
+Cotton,2022,5290060,5290
+Cotton seed,2000,3333000,3333
+Cotton seed,2001,3452000,3452
+Cotton seed,2002,2978000,2978
+Cotton seed,2003,4741100,4741
+Cotton seed,2004,5673000,5673
+Cotton seed,2005,6388000,6388
+Cotton seed,2006,7815000,7815
+Cotton seed,2007,8938000,8938
+Cotton seed,2008,7692000,7692
+Cotton seed,2009,8294400,8294
+Cotton seed,2010,11543800,11544
+Cotton seed,2011,12465800,12466
+Cotton seed,2012,11816600,11817
+Cotton seed,2013,12293100,12293
+Cotton seed,2014,12017000,12017
+Cotton seed,2015,10363000,10363
+Cotton seed,2016,11250000,11250
+Cotton seed,2017,11848000,11848
+Cotton seed,2018,9889000,9889
+Cotton seed,2019,11400000,11400
+Cotton seed,2020,11500000,11500
+Cotton seed,2021,11200000,11200
+Cotton seed,2022,9700000,9700
+Cottonseed oil,2000,460000,460
+Cottonseed oil,2001,470000,470
+Cottonseed oil,2002,430000,430
+Cottonseed oil,2003,430000,430
+Cottonseed oil,2004,430000,430
+Cottonseed oil,2005,570000,570
+Cottonseed oil,2006,630000,630
+Cottonseed oil,2007,800000,800
+Cottonseed oil,2008,760000,760
+Cottonseed oil,2009,800000,800
+Cottonseed oil,2010,1089000,1089
+Cottonseed oil,2011,1162000,1162
+Cottonseed oil,2012,1116000,1116
+Cottonseed oil,2013,1053500,1054
+Cottonseed oil,2014,1215000,1215
+Cottonseed oil,2015,1005000,1005
+Cottonseed oil,2016,1224000,1224
+Cottonseed oil,2017,1264000,1264
+Cottonseed oil,2018,1240400,1240
+Cottonseed oil,2019,1199100,1199
+Cottonseed oil,2020,1259400,1259
+Cottonseed oil,2021,1223000,1223
+Cottonseed oil,2022,1055900,1056
+Tea,2010,991182,991
+Tea,2011,1095460,1095
+Tea,2012,1135070,1135
+Tea,2013,1208780,1209
+Tea,2014,1207310,1207
+Tea,2015,1233140,1233
+Tea,2016,1250490,1250
+Tea,2017,1325050,1325
+Tea,2018,1338630,1339
+Tea,2019,1390080,1390
+Tea,2020,1261545,1262
+Tea,2021,1348748,1349
+Tea,2022,1372835,1373
+Groundnut oil,2000,1474000,1474
+Groundnut oil,2001,1616000,1616
+Groundnut oil,2002,948000,948
+Groundnut oil,2003,1869000,1869
+Groundnut oil,2004,1558000,1558
+Groundnut oil,2005,1838000,1838
+Groundnut oil,2006,1119000,1119
+Groundnut oil,2007,2112000,2112
+Groundnut oil,2008,1648000,1648
+Groundnut oil,2009,1249000,1249
+Groundnut oil,2010,1901000,1901
+Groundnut oil,2011,1595000,1595
+Groundnut oil,2012,1602000,1602
+Groundnut oil,2013,1250000,1250
+Groundnut oil,2014,1037000,1037
+Groundnut oil,2015,918000,918
+Groundnut oil,2016,1190000,1190
+Groundnut oil,2017,594300,594
+Groundnut oil,2018,570800,571
+Groundnut oil,2019,351900,352
+Groundnut oil,2020,542300,542
+Groundnut oil,2021,776500,777
+Groundnut oil,2022,894200,894
+Margarine,2000,1320000,1320
+Margarine,2001,1445000,1445
+Margarine,2002,1301000,1301
+Margarine,2003,1448000,1448
+Margarine,2004,1628000,1628
+Margarine,2005,1898000,1898
+Margarine,2006,1193000,1193
+Margarine,2007,1285000,1285
+Margarine,2008,1380000,1380
+Margarine,2009,1532000,1532
+Margarine,2010,1122000,1122
+Margarine,2011,827000,827
+Margarine,2012,930000,930
+Margarine,2013,815500,816
+Margarine,2014,887500,888
+Margarine,2015,1045800,1046
+Margarine,2016,939000,939
+Margarine,2017,859600,860
+Margarine,2018,573600,574
+Margarine,2019,574400,574
+Margarine,2020,497100,497
+Margarine,2021,483000,483
+Margarine,2022,436000,436
+Molasses,2000,8022000,8022
+Molasses,2001,7820000,7820
+Molasses,2002,8073000,8073
+Molasses,2003,8879000,8879
+Molasses,2004,5905000,5905
+Molasses,2005,5514000,5514
+Molasses,2006,8550000,8550
+Molasses,2007,13089000,13089
+Molasses,2008,11313000,11313
+Molasses,2009,6540000,6540
+Molasses,2010,8400000,8400
+Molasses,2011,10970000,10970
+Molasses,2012,11800000,11800
+Molasses,2013,11744000,11744
+Molasses,2014,10882000,10882
+Molasses,2015,12482000,12482
+Molasses,2016,10873000,10873
+Molasses,2017,9026000,9026
+Molasses,2018,14063000,14063
+Molasses,2019,14100000,14100
+Molasses,2020,11125000,11125
+Molasses,2021,12325733.99,+ACM-VALUE+ACE-
+Molasses,2022,14353891.55,+ACM-VALUE+ACE-
+Oil of linseed,2000,72000,72
+Oil of linseed,2001,60000,60
+Oil of linseed,2002,63000,63
+Oil of linseed,2003,53000,53
+Oil of linseed,2004,59000,59
+Oil of linseed,2005,51000,51
+Oil of linseed,2006,52000,52
+Oil of linseed,2007,50000,50
+Oil of linseed,2008,49000,49
+Oil of linseed,2009,51000,51
+Oil of linseed,2010,46000,46
+Oil of linseed,2011,44000,44
+Oil of linseed,2012,46000,46
+Oil of linseed,2013,45000,45
+Oil of linseed,2014,41000,41
+Oil of linseed,2015,46000,46
+Oil of linseed,2016,33000,33
+Oil of linseed,2017,50000,50
+Oil of linseed,2018,46200,46
+Oil of linseed,2019,37900,38
+Oil of linseed,2020,41300,41
+Oil of linseed,2021,35000,35
+Oil of linseed,2022,33700,34
+Oil of maize,2000,4500,5
+Oil of maize,2001,4500,5
+Oil of maize,2002,4500,5
+Oil of maize,2003,20700,21
+Oil of maize,2004,12150,12
+Oil of maize,2005,4950,5
+Oil of maize,2006,23310,23
+Oil of maize,2007,35775,36
+Oil of maize,2008,4950,5
+Oil of maize,2009,4950,5
+Oil of maize,2010,5796.79,+ACM-VALUE+ACE-
+Oil of maize,2011,5257.91,+ACM-VALUE+ACE-
+Oil of maize,2012,5405.02,+ACM-VALUE+ACE-
+Oil of maize,2013,5810.88,+ACM-VALUE+ACE-
+Oil of maize,2014,5378.08,+ACM-VALUE+ACE-
+Oil of maize,2015,6647.55,+ACM-VALUE+ACE-
+Oil of maize,2016,6435.67,+ACM-VALUE+ACE-
+Oil of maize,2017,6438.06,+ACM-VALUE+ACE-
+Oil of maize,2018,6829.49,+ACM-VALUE+ACE-
+Oil of maize,2019,6608.66,+ACM-VALUE+ACE-
+Oil of maize,2020,4660.65,+ACM-VALUE+ACE-
+Oil of maize,2021,4674.4,+ACM-VALUE+ACE-
+Oil of maize,2022,4713.78,+ACM-VALUE+ACE-
+Sesame oil,2000,120000,120
+Sesame oil,2001,113200,113
+Sesame oil,2002,150400,150
+Sesame oil,2003,149200,149
+Sesame oil,2004,147800,148
+Sesame oil,2005,148600,149
+Sesame oil,2006,131500,132
+Sesame oil,2007,117600,118
+Sesame oil,2008,100500,101
+Sesame oil,2009,117300,117
+Sesame oil,2010,99700,100
+Sesame oil,2011,128800,129
+Sesame oil,2012,122100,122
+Sesame oil,2013,121600,122
+Sesame oil,2014,105900,106
+Sesame oil,2015,101100,101
+Sesame oil,2016,95900,96
+Sesame oil,2017,88400,88
+Sesame oil,2018,87200,87
+Sesame oil,2019,96800,97
+Sesame oil,2020,89600,90
+Sesame oil,2021,88700,89
+Sesame oil,2022,76700,77
+Rapeseed oil,2000,1794000,1794
+Rapeseed oil,2001,1299000,1299
+Rapeseed oil,2002,1576000,1576
+Rapeseed oil,2003,1203000,1203
+Rapeseed oil,2004,1950000,1950
+Rapeseed oil,2005,2354000,2354
+Rapeseed oil,2006,2521000,2521
+Rapeseed oil,2007,2305000,2305
+Rapeseed oil,2008,1808000,1808
+Rapeseed oil,2009,2232000,2232
+Rapeseed oil,2010,2048000,2048
+Rapeseed oil,2011,2535000,2535
+Rapeseed oil,2012,2047000,2047
+Rapeseed oil,2013,2305000,2305
+Rapeseed oil,2014,2442000,2442
+Rapeseed oil,2015,1956000,1956
+Rapeseed oil,2016,1837800,1838
+Rapeseed oil,2017,2068700,2069
+Rapeseed oil,2018,2475000,2475
+Rapeseed oil,2019,2543400,2543
+Rapeseed oil,2020,2520000,2520
+Rapeseed oil,2021,2980800,2981
+Rapeseed oil,2022,3448800,3449
+Cane sugar,2000,20219000,20219
+Cane sugar,2001,20480000,20480
+Cane sugar,2002,20475000,20475
+Cane sugar,2003,22140000,22140
+Cane sugar,2004,15150000,15150
+Cane sugar,2005,14170000,14170
+Cane sugar,2006,21140000,21140
+Cane sugar,2007,30780000,30780
+Cane sugar,2008,28630000,28630
+Cane sugar,2009,15950000,15950
+Cane sugar,2010,20637000,20637
+Cane sugar,2011,26574000,26574
+Cane sugar,2012,28830000,28830
+Cane sugar,2013,27737000,27737
+Cane sugar,2014,26605000,26605
+Cane sugar,2015,30460000,30460
+Cane sugar,2016,27385000,27385
+Cane sugar,2017,22200000,22200
+Cane sugar,2018,34309000,34309
+Cane sugar,2019,34300000,34300
+Cane sugar,2020,28900000,28900
+Cane sugar,2021,33760000,33760
+Cane sugar,2022,36880000,36880
+Safflower oil,2000,78000,78
+Safflower oil,2001,60000,60
+Safflower oil,2002,66000,66
+Safflower oil,2003,54000,54
+Safflower oil,2004,40000,40
+Safflower oil,2005,52000,52
+Safflower oil,2006,69000,69
+Safflower oil,2007,72000,72
+Safflower oil,2008,68000,68
+Safflower oil,2009,57000,57
+Safflower oil,2010,54000,54
+Safflower oil,2011,45000,45
+Safflower oil,2012,44000,44
+Safflower oil,2013,33000,33
+Safflower oil,2014,31000,31
+Safflower oil,2015,27000,27
+Safflower oil,2016,15000,15
+Safflower oil,2017,22000,22
+Safflower oil,2018,14000,14
+Safflower oil,2019,7000,7
+Safflower oil,2020,9000,9
+Safflower oil,2021,11000,11
+Safflower oil,2022,16000,16
+Soya bean oil,2000,845000,845
+Soya bean oil,2001,954000,954
+Soya bean oil,2002,745000,745
+Soya bean oil,2003,1251000,1251
+Soya bean oil,2004,1100000,1100
+Soya bean oil,2005,1324000,1324
+Soya bean oil,2006,1416000,1416
+Soya bean oil,2007,1755000,1755
+Soya bean oil,2008,1585000,1585
+Soya bean oil,2009,1594000,1594
+Soya bean oil,2010,2038000,2038
+Soya bean oil,2011,1954000,1954
+Soya bean oil,2012,2262000,2262
+Soya bean oil,2013,1690000,1690
+Soya bean oil,2014,1684000,1684
+Soya bean oil,2015,960300,960
+Soya bean oil,2016,1056600,1057
+Soya bean oil,2017,1411500,1412
+Soya bean oil,2018,1507700,1508
+Soya bean oil,2019,1438200,1438
+Soya bean oil,2020,1377700,1378
+Soya bean oil,2021,1317200,1317
+Soya bean oil,2022,1477400,1477
+Sunflower oil,2000,215000,215
+Sunflower oil,2001,224000,224
+Sunflower oil,2002,288000,288
+Sunflower oil,2003,307000,307
+Sunflower oil,2004,392000,392
+Sunflower oil,2005,475000,475
+Sunflower oil,2006,405000,405
+Sunflower oil,2007,483000,483
+Sunflower oil,2008,413000,413
+Sunflower oil,2009,382000,382
+Sunflower oil,2010,215000,215
+Sunflower oil,2011,165000,165
+Sunflower oil,2012,183000,183
+Sunflower oil,2013,166000,166
+Sunflower oil,2014,143000,143
+Sunflower oil,2015,98000,98
+Sunflower oil,2016,80000,80
+Sunflower oil,2017,70000,70
+Sunflower oil,2018,68600,69
+Sunflower oil,2019,67100,67
+Sunflower oil,2020,62600,63
+Sunflower oil,2021,63900,64
+Sunflower oil,2022,83000,83
